@@ -1,0 +1,1 @@
+Created a new Maven project named LibraryManagement. Include dependencies for Spring Context, Spring AOP, and Spring WebMVC in the pom.xml file. Configured the Maven Compiler Plugin for Java version 1.8 in the pom.xml file.
