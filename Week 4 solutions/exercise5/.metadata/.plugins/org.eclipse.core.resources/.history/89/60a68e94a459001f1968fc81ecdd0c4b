@@ -1,0 +1,5 @@
+package com.code.api.repository;
+
+public interface CustomerRepository {
+
+}

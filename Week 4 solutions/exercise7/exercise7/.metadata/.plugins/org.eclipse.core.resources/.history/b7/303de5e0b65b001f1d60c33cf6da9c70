@@ -1,0 +1,12 @@
+package com.code.api.mapper;
+
+import org.mapstruct.Mapper;
+
+import com.code.api.dto.CustomerDTO;
+import com.code.api.entity.Customer;
+
+@Mapper
+public interface CustomerMapper {
+	CustomerDTO toDto(Customer customer);
+	Customer fromDto(CustomerDTO dto);
+}

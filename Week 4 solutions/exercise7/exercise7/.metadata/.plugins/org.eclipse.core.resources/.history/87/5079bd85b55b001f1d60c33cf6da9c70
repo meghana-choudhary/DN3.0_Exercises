@@ -1,0 +1,5 @@
+package com.code.api.json;
+
+public class CustomSerializer {
+
+}

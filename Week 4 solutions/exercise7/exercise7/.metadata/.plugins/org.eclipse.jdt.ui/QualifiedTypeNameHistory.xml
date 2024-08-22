@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.code.api.entity.Customer"/>
+    <fullyQualifiedTypeName name="com.code.api.dto.CustomerDTO"/>
+    <fullyQualifiedTypeName name="org.mapstruct.Mapper"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.annotation.JsonSerialize"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.annotation.JsonDeserialize"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.ser.std.StdSerializer"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.SerializerProvider"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.core.JsonGenerator"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.deser.std.StdDeserializer"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.core.JsonParser"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.DeserializationContext"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.core.JacksonException"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.JsonNode"/>
+    <fullyQualifiedTypeName name="com.code.api.entity.Book"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.ObjectMapper"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.module.SimpleModule"/>
+    <fullyQualifiedTypeName name="com.code.api.dto.BookDTO"/>
+    <fullyQualifiedTypeName name="com.code.api.json.CustomSerializer"/>
+    <fullyQualifiedTypeName name="com.code.api.json.CustomDeserializer"/>
+    <fullyQualifiedTypeName name="com.code.api.mapper.CustomerMapper"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="org.modelmapper.ModelMapper"/>
+</qualifiedTypeNameHistroy>

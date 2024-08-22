@@ -1,0 +1,7 @@
+INDEX VERSION 1.134
+D:\MCKVJAVA\Week4\ex4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2989688812.index
+\bookstoreapi\src\main\java
+D:\MCKVJAVA\Week4\ex4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4278496022.index
+\bookstoreapi\src\main\java
+D:\MCKVJAVA\Week4\ex4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\520361377.index
+\bookstoreapi\src\main\java

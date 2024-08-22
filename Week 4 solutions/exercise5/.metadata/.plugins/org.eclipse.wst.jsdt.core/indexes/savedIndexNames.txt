@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+D:\MCKVJAVA\Week4\ex5\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4234373363.index
+882404858.index
+3617407317.index
+2643940434.index
