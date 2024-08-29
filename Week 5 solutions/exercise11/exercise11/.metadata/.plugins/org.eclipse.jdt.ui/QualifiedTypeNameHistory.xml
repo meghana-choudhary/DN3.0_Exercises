@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="io.micrometer.core.instrument.Counter"/>
+    <fullyQualifiedTypeName name="io.micrometer.core.instrument.MeterRegistry"/>
+    <fullyQualifiedTypeName name="io.micrometer.core.instrument.Timer"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.atomic.AtomicInteger"/>
+</qualifiedTypeNameHistroy>

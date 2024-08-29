@@ -1,0 +1,81 @@
+2024-08-16 22:20:57,106 [Worker-10: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-08-16 22:21:31,804 [Worker-24: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.code.api:bookstoreapi:0.0.1-SNAPSHOT @ D:\MCKVJAVA\Week4\exercise9\bookstoreapi\bookstoreapi\pom.xml.
+2024-08-16 22:21:33,200 [Worker-24: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstoreapi/src/main/java
+2024-08-16 22:21:33,207 [Worker-24: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookstoreapi/src/main/resources
+2024-08-16 22:21:33,209 [Worker-24: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookstoreapi/src/main/resources
+2024-08-16 22:21:33,211 [Worker-24: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstoreapi/src/test/java
+2024-08-16 22:21:33,213 [Worker-24: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookstoreapi/src/test/resources
+2024-08-16 22:21:36,070 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-16 22:21:36,099 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-16 22:21:36,105 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MCKVJAVA\Week4\exercise9\bookstoreapi\bookstoreapi\src\test\resources
+2024-08-16 22:29:07,221 [Worker-31: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.code.api:bookstoreapi:0.0.1-SNAPSHOT @ D:\MCKVJAVA\Week4\exercise9\bookstoreapi\bookstoreapi\pom.xml.
+2024-08-16 22:29:08,135 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-16 22:29:08,153 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-16 22:29:08,157 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MCKVJAVA\Week4\exercise9\bookstoreapi\bookstoreapi\src\test\resources
+2024-08-16 22:29:08,295 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-08-16 22:29:08,712 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.code.api:bookstoreapi:0.0.1-SNAPSHOT @ D:\MCKVJAVA\Week4\exercise9\bookstoreapi\bookstoreapi\pom.xml.
+2024-08-16 22:29:09,517 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstoreapi/src/main/java
+2024-08-16 22:29:09,517 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookstoreapi/src/main/resources
+2024-08-16 22:29:09,518 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookstoreapi/src/main/resources
+2024-08-16 22:29:09,519 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstoreapi/src/test/java
+2024-08-16 22:29:09,519 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookstoreapi/src/test/resources
+2024-08-16 22:29:10,321 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-16 22:29:10,342 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-16 22:29:10,345 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MCKVJAVA\Week4\exercise9\bookstoreapi\bookstoreapi\src\test\resources
+2024-08-16 22:36:07,533 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-16 22:36:07,542 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-16 22:36:07,547 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MCKVJAVA\Week4\exercise9\bookstoreapi\bookstoreapi\src\test\resources
+2024-08-16 22:44:04,038 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-16 22:44:04,045 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-16 22:44:04,049 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MCKVJAVA\Week4\exercise9\bookstoreapi\bookstoreapi\src\test\resources
+2024-08-16 22:46:52,205 [Worker-41: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-16 22:46:52,212 [Worker-41: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-16 22:46:52,216 [Worker-41: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MCKVJAVA\Week4\exercise9\bookstoreapi\bookstoreapi\src\test\resources
+2024-08-16 22:49:30,146 [Worker-39: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-16 22:49:30,160 [Worker-39: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-16 22:49:30,166 [Worker-39: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MCKVJAVA\Week4\exercise9\bookstoreapi\bookstoreapi\src\test\resources
+2024-08-16 22:54:55,408 [Worker-39: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-16 22:54:55,416 [Worker-39: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-16 22:54:55,419 [Worker-39: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MCKVJAVA\Week4\exercise9\bookstoreapi\bookstoreapi\src\test\resources
+2024-08-16 22:56:57,412 [Worker-48: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-16 22:56:57,488 [Worker-48: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-16 22:56:57,490 [Worker-48: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MCKVJAVA\Week4\exercise9\bookstoreapi\bookstoreapi\src\test\resources
+2024-08-16 22:58:27,164 [Worker-47: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-16 22:58:27,190 [Worker-47: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-16 22:58:27,195 [Worker-47: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MCKVJAVA\Week4\exercise9\bookstoreapi\bookstoreapi\src\test\resources
+2024-08-16 22:59:47,009 [Worker-47: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-16 22:59:47,070 [Worker-47: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-16 22:59:47,082 [Worker-47: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MCKVJAVA\Week4\exercise9\bookstoreapi\bookstoreapi\src\test\resources
+2024-08-16 23:09:14,923 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-16 23:09:14,962 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-16 23:09:14,964 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MCKVJAVA\Week4\exercise9\bookstoreapi\bookstoreapi\src\test\resources
+2024-08-16 23:10:03,252 [Worker-54: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-16 23:10:03,274 [Worker-54: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-16 23:10:03,276 [Worker-54: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MCKVJAVA\Week4\exercise9\bookstoreapi\bookstoreapi\src\test\resources
+2024-08-16 23:10:25,246 [Worker-38: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-16 23:10:25,253 [Worker-38: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-16 23:10:25,279 [Worker-38: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MCKVJAVA\Week4\exercise9\bookstoreapi\bookstoreapi\src\test\resources
+2024-08-16 23:12:19,666 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-16 23:12:19,669 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-16 23:12:19,673 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MCKVJAVA\Week4\exercise9\bookstoreapi\bookstoreapi\src\test\resources
+2024-08-16 23:12:24,194 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-16 23:12:24,198 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-16 23:12:24,201 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MCKVJAVA\Week4\exercise9\bookstoreapi\bookstoreapi\src\test\resources
+2024-08-16 23:13:37,245 [Worker-52: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-16 23:13:37,250 [Worker-52: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-16 23:13:37,254 [Worker-52: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MCKVJAVA\Week4\exercise9\bookstoreapi\bookstoreapi\src\test\resources
+2024-08-16 23:14:58,718 [Worker-38: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-16 23:14:58,725 [Worker-38: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-16 23:14:58,731 [Worker-38: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MCKVJAVA\Week4\exercise9\bookstoreapi\bookstoreapi\src\test\resources
+2024-08-16 23:32:40,034 [Worker-55: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-16 23:32:40,044 [Worker-55: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-16 23:32:40,048 [Worker-55: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MCKVJAVA\Week4\exercise9\bookstoreapi\bookstoreapi\src\test\resources
+2024-08-16 23:40:30,720 [Worker-51: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-16 23:40:30,733 [Worker-51: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-16 23:40:30,760 [Worker-51: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MCKVJAVA\Week4\exercise9\bookstoreapi\bookstoreapi\src\test\resources
+2024-08-16 23:51:28,484 [Worker-61: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-16 23:51:28,494 [Worker-61: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-16 23:51:28,497 [Worker-61: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MCKVJAVA\Week4\exercise9\bookstoreapi\bookstoreapi\src\test\resources
+2024-08-17 00:18:47,351 [Worker-55: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-08-17 00:18:47,360 [Worker-55: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-08-17 00:18:47,392 [Worker-55: Launching bookstoreapi - BookstoreApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MCKVJAVA\Week4\exercise9\bookstoreapi\bookstoreapi\src\test\resources

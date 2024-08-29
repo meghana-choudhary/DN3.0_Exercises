@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;responses&apos; to &apos;com.code.api.responses&apos;&#x0D;&#x0A;- Original project: &apos;bookstoreapi&apos;&#x0D;&#x0A;- Original element: &apos;bookstoreapi/src/main/java/responses&apos;&#x0D;&#x0A;- Renamed element: &apos;bookstoreapi/src/main/java/com.code.api.responses&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;responses&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;responses" name="com.code.api.responses" qualified="false" references="true" stamp="1724048807863" textual="false" version="1.0"/>
+</session>

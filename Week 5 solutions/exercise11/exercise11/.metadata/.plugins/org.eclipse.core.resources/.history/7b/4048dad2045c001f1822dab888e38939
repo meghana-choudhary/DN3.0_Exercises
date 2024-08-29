@@ -1,0 +1,15 @@
+spring.application.name=BookstoreAPI
+spring.datasource.url=jdbc:h2:mem:librarydb
+spring.datasource.driverClassName=org.h2.Driver
+spring.datasource.username=sa	
+spring.datasource.password=password
+spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.properties.hibernate.show_sql=true
+spring.mvc.view.prefix=/WEB-INF/jsp/
+spring.mvc.view.suffix=.jsp
+management.info.env.enabled = true
+info.app.name=Spring Actuator Example
+info.app.java.version=10
+info.app.type=Spring Boot
+server.port=8185 

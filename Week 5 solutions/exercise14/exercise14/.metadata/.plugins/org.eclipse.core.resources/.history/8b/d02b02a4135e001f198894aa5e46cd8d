@@ -1,0 +1,5 @@
+package com.code.api.config;
+
+public class Swagger2UiConfiguration {
+
+}
